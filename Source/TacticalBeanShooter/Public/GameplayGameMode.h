@@ -6,9 +6,6 @@
 #include "GameFramework/GameModeBase.h"
 #include "GameplayGameMode.generated.h"
 
-/**
- * 
- */
 UCLASS()
 class TACTICALBEANSHOOTER_API AGameplayGameMode : public AGameModeBase
 {
